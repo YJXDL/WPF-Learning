@@ -1,0 +1,21 @@
+﻿<Window x:Class="MyFirstApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"        
+        xmlns:local="clr-namespace:MyFirstApplication"
+        mc:Ignorable="d"
+        Title="用户登录界面" Height="173" Width="296">
+    <StackPanel Background="LightBlue">
+        <TextBox x:Name="textBox1" Margin="5"></TextBox>
+        <TextBox x:Name="textBox2" Margin="5"></TextBox>
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="button1" Margin="5">
+                <Image Source="001.png" Width="24" Height="23"></Image>
+            </Button>
+        </StackPanel>
+        <Button x:Name="textBox3" Width="140" Margin="5">
+            <Image Source="001.png" Width="24" Height="23"></Image>
+        </Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "LibraryTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LibraryTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryTest.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "LibraryTest/1.0.0": {
+      "type": "project",
+      "path": "../LibraryTest/LibraryTest.csproj",
+      "msbuildProject": "../LibraryTest/LibraryTest.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "LibraryTest >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\闫晶鑫\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第三章\\3.3事件处理器与代码后置\\3.3事件处理器与代码后置.csproj",
+      "projectName": "3.3事件处理器与代码后置",
+      "projectPath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第三章\\3.3事件处理器与代码后置\\3.3事件处理器与代码后置.csproj",
+      "packagesPath": "C:\\Users\\闫晶鑫\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第三章\\3.3事件处理器与代码后置\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\闫晶鑫\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第三章\\LibraryTest\\LibraryTest.csproj": {
+              "projectPath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第三章\\LibraryTest\\LibraryTest.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

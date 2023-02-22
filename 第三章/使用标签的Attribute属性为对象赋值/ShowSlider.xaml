@@ -1,0 +1,14 @@
+﻿<Window x:Class="使用标签的Attribute属性为对象赋值.ShowSlider"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:使用标签的Attribute属性为对象赋值"
+        mc:Ignorable="d"
+        Title="ShowSlider" Height="450" Width="800">
+    <StackPanel Background="LightSteelBlue">
+        <TextBox Text="{Binding ElementName=slider1,Path=Value,Mode=OneWay}" Margin="5"/>
+        <Slider x:Name="slider1" Margin="5"/>
+        
+    </StackPanel>
+</Window>

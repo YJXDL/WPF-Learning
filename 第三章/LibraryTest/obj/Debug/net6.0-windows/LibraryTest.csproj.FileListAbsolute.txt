@@ -1,0 +1,12 @@
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\bin\Debug\net6.0-windows\LibraryTest.deps.json
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\bin\Debug\net6.0-windows\LibraryTest.dll
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\bin\Debug\net6.0-windows\LibraryTest.pdb
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.csproj.AssemblyReference.cache
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.AssemblyInfoInputs.cache
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.AssemblyInfo.cs
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.dll
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\refint\LibraryTest.dll
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\LibraryTest.pdb
+D:\Code\CSharp\WPF\WPF深入浅出\第三章\LibraryTest\obj\Debug\net6.0-windows\ref\LibraryTest.dll

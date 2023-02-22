@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "使用标签的Attribute属性为对象赋值/1.0.0": {
+        "runtime": {
+          "使用标签的Attribute属性为对象赋值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "使用标签的Attribute属性为对象赋值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

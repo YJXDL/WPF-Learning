@@ -1,0 +1,21 @@
+﻿<Window x:Class="XType标记扩展.XArray声明Items属性"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:XType标记扩展"
+        mc:Ignorable="d"
+        Title="XArray声明Items属性" Height="450" Width="800">
+    <Grid Background="LightBlue">
+        <ListBox Margin="15" >
+            <ListBox.ItemsSource>
+                <x:Array Type="sys:String">
+                    <sys:String>Tim</sys:String>
+                    <sys:String>Tom</sys:String>
+                    <sys:String>Victor</sys:String>
+                </x:Array>
+            </ListBox.ItemsSource>
+        </ListBox>
+    </Grid>
+</Window>
