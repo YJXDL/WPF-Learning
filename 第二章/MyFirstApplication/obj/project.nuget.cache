@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LIr6yCPcdGgw4UrGuM8sfI0S0f6yy7nJ1gonfQV2xmm3Rh7RUaTflNnB6IGuWIbzQI6u7BkOTgagn9trfbq1RA==",
+  "dgSpecHash": "vD4l40f1b5o0EtA/bfmgk5lVjBDt0FKacJRyMrtz+Z+SIkMs5L7Fvcj+62aBOMLmDlBDbbuw/LWdBFKikePSAA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第二章\\MyFirstApplication\\MyFirstApplication.csproj",
+  "projectFilePath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\WPF-Learning\\第二章\\MyFirstApplication\\MyFirstApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

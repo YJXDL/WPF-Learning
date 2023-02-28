@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XType标记扩展
-build_property.ProjectDir = D:\Code\CSharp\WPF\WPF深入浅出\第四章\XType标记扩展\
+build_property.ProjectDir = D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第四章\XType标记扩展\

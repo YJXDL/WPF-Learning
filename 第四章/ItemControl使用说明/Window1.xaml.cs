@@ -29,7 +29,6 @@ namespace ItemControl使用说明
         {
             stackpanel1.Children.Clear();
             UserControl1 showuserControl = new UserControl1();
-           stackpanel1
             stackpanel1.Children.Add(showuserControl);
         }
 

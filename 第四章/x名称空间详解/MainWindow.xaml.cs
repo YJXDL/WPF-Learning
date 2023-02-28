@@ -28,7 +28,7 @@ namespace x名称空间详解
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string str = this.FindResource("myString") as string;
-            if (str != null) { this.textBox1.Text= str; }
+            if (str != null) { this.textBox1.Text = str; }
         }
     }
 }

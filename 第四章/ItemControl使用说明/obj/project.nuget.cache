@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9768FRiKBj05Dd4RWdDL/xkJqF5TEJslygRAIPwlb4wUsHzk7hN40mELBHClHMRQfYqA+dxfjYNwwcxpzzbSww==",
+  "dgSpecHash": "28ldVtehgjvLpQb2DFbQQqCbYNVZ5ebWi8hQ5maWLLmfsdxIpsDGZKNSpjMqKygHlRHpr9s3skMclevaIb4XGA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\第四章\\ItemControl使用说明\\ItemControl使用说明.csproj",
+  "projectFilePath": "D:\\Code\\CSharp\\WPF\\WPF深入浅出\\WPF-Learning\\第四章\\ItemControl使用说明\\ItemControl使用说明.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

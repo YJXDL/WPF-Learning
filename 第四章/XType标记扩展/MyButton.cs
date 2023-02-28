@@ -8,14 +8,14 @@ using System.Windows.Controls;
 
 namespace XType标记扩展
 {
-    public class MyButton:Button
+    public class MyButton : Button
     {
         public Type UserWindowType { get; set; }
         protected override void OnClick()
         {
             base.OnClick();//激发Click事件
             Window win = Activator.CreateInstance(this.UserWindowType) as Window;
-            if(win != null)
+            if (win != null)
             {
                 win.ShowDialog();
             }

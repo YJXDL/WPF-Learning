@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x名称空间详解", "x名
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XType标记扩展", "..\XType标记扩展\XType标记扩展.csproj", "{233D5C19-554A-428E-9D55-6C1D55C4E70E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemControl使用说明", "..\ItemControl使用说明\ItemControl使用说明.csproj", "{923945C6-2C7B-4490-A6E0-B31F4B7BAD9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemControl使用说明", "..\ItemControl使用说明\ItemControl使用说明.csproj", "{923945C6-2C7B-4490-A6E0-B31F4B7BAD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第六章", "..\..\第六章\第六章.csproj", "{41A818A9-AF68-4411-A493-1C918ACC8A94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{923945C6-2C7B-4490-A6E0-B31F4B7BAD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923945C6-2C7B-4490-A6E0-B31F4B7BAD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923945C6-2C7B-4490-A6E0-B31F4B7BAD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A818A9-AF68-4411-A493-1C918ACC8A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A818A9-AF68-4411-A493-1C918ACC8A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A818A9-AF68-4411-A493-1C918ACC8A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A818A9-AF68-4411-A493-1C918ACC8A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
