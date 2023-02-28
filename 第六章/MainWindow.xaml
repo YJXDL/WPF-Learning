@@ -1,0 +1,20 @@
+﻿<Window x:Class="第六章.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:第六章"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0"  x:Name="ShowUserControl" HorizontalAlignment="Left" ></StackPanel>
+        <StackPanel Grid.Column="1" HorizontalAlignment="Right">
+            <Button x:Name="btn_PropertyChanged" Margin="5" Click="btn_PropertyChanged_Click" Content="使用UC_PropertyChanged"/>
+            <Button x:Name="btn_ControlAsSource" Margin="5" Click="btn_ControlAsSource_Click" Content="将控件作为Binding源"/>
+        </StackPanel>
+    </Grid>
+</Window>
