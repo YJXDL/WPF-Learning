@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\App.xaml
-31531867733
+9675368788
 
-7-2089595025
+13-1904117155
 1981462702791
-MainWindow.xaml;Views\ControlAsSource.xaml;Views\UC_PropertyChanged.xaml;
+MainWindow.xaml;Views\CollectionAsBindingSource.xaml;Views\ControlAsSource.xaml;Views\DataTableAsBindingSource.xaml;Views\PropertiesPassedDown.xaml;Views\UC_PropertyChanged.xaml;Views\WithoutPathAndSourceStackpanel.xaml;Views\XMLASBingingSource.xaml;Views\XMLAsTreeview.xaml;
 
 False
 

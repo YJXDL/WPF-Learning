@@ -8,9 +8,13 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel Background="LightPink">
         <StackPanel.DataContext>
-            <local:Student Id="1" Name="Tim"/>
+            <local:Student Id="1" Name="Tim" Age="18"/>
         </StackPanel.DataContext>
+        <Label Content="Id" Margin="5" FontSize="20"/>
         <TextBox Text="{Binding Id}" Margin="5"/>
+        <Label Content="Name" Margin="5" FontSize="20"/>
         <TextBox Text="{Binding Name}" Margin="5"/>
+        <Label Content="Age" Margin="5" FontSize="20"/>
+        <TextBox Text="{Binding Age}" Margin="5"/>
     </StackPanel>
 </UserControl>

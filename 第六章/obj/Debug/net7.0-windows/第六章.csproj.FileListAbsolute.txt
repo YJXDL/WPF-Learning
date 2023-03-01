@@ -24,3 +24,15 @@ D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windo
 D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\ControlAsSource.g.cs
 D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\ControlAsSource.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\WithoutPathAndSourceStackpanel.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\WithoutPathAndSourceStackpanel.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\PropertiesPassedDown.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\PropertiesPassedDown.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\CollectionAsBindingSource.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\CollectionAsBindingSource.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\DataTableAsBindingSource.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\DataTableAsBindingSource.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\XMLASBingingSource.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\XMLASBingingSource.baml
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\XMLAsTreeview.g.cs
+D:\Code\CSharp\WPF\WPF深入浅出\WPF-Learning\第六章\obj\Debug\net7.0-windows\Views\XMLAsTreeview.baml

@@ -61,7 +61,7 @@ namespace 第六章.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/第六章;V1.0.0.0;component/views/uc_propertychanged.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/第六章;component/views/uc_propertychanged.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\UC_PropertyChanged.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

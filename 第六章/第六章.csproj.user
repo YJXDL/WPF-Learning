@@ -7,7 +7,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\CollectionAsBindingSource.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DataTableAsBindingSource.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PropertiesPassedDown.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WithoutPathAndSourceStackpanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\XMLASBingingSource.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\XMLAsTreeview.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CollectionAsBindingSource.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DataTableAsBindingSource.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PropertiesPassedDown.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WithoutPathAndSourceStackpanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\XMLASBingingSource.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\XMLAsTreeview.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -5,16 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:第六章"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="180"/>
         </Grid.ColumnDefinitions>
         <StackPanel Grid.Column="0"  x:Name="ShowUserControl" HorizontalAlignment="Left" ></StackPanel>
         <StackPanel Grid.Column="1" HorizontalAlignment="Right">
             <Button x:Name="btn_PropertyChanged" Margin="5" Click="btn_PropertyChanged_Click" Content="使用UC_PropertyChanged"/>
             <Button x:Name="btn_ControlAsSource" Margin="5" Click="btn_ControlAsSource_Click" Content="将控件作为Binding源"/>
+            <Button x:Name="btn_WithoutPathAndSourceStackpanel" Margin="5" Click="btn_WithoutPathAndSourceStackpanel_Click" Content="没有Binging指定Source"/>
+            <Button x:Name="btn_PropertiesPassedDown" Margin="5" Click="btn_PropertiesPassedDown_Click"  Content="属性向下传递"/>
+            <Button x:Name="btn_CollectionAsBindingSource" Margin="5" Click="btn_CollectionAsBindingSource_Click"  Content="集合对象作为BindingSource"/>
+            <Button x:Name="btn_DataTableAsBindingSource" Margin="5" Click="btn_DataTableAsBindingSource_Click"  Content="ADO.NET对象作为Binging源"/>
+            <Button x:Name="btn_XMLASBingingSource" Margin="5" Click="btn_XMLASBingingSource_Click" Content="XML作为Binging源"/>
+            <Button x:Name="btn_XMLAsTreeview" Margin="5" Click="btn_XMLAsTreeview_Click" Content="用树控件显示XML"/>
+            <Button x:Name="btn_LinqAsBindingSource" Margin="5" Click="btn_LinqAsBindingSource_Click" Content="使用Linq作为Binding源"/>
         </StackPanel>
     </Grid>
 </Window>
